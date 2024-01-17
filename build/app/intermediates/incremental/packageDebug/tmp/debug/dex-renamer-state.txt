@@ -1,0 +1,4 @@
+#Wed Jan 17 22:28:35 IST 2024
+base.0=F\:\\AA_Flutterproject_2023\\temp\\test_table_calendar_chatgpt_sample_4c\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
